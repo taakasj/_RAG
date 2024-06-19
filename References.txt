@@ -1,3 +1,5 @@
 https://www.youtube.com/watch?v=rz40ukZ3krQ&t=656s
 https://docs.langflow.org/
 https://astra.datastax.com/org/53d3ba13-2d6b-4fde-b240-e1e0d7ed3134/database/
+https://oai.azure.com/portal/aeca3426762a4023979d88e4e228f20d/deployment?tenantid=
+Azure AI studio
